@@ -1,22 +1,22 @@
 {
   "showOnDate": "2024-12-18T00:00:00Z",
   "keys": {
-    "Key-Society-A17J": {
+    "Key-rahim-s1zx": {
       "deviceId": "ANY",
-      "expiryDate": "2025-01-13T23:59:59Z"
+      "expiryDate": "2025-12-19T23:59:59Z"
     }
   },
   "update_dialog": {
-    "topText": "ANDRE MODS - LITE V29 UPDATE DONE ✅",
+    "topText": "RAHIM MODS - LITE V7 UPDATE DONE ✅",
     "mainQuestion": "A new version is ready!",
     "buttonText": "Download Now",
-    "buttonClickUrl": "https://t.me/+-87iAeFp_M81MzVl"
+    "buttonClickUrl": "https://t.me/Rahim_ofc1"
   },
   "login_dialog": {
     "topText": "Access Required",
     "buttonText": "Login",
     "adminButtonText": "Get key",
-    "adminButtonUrl": "https://t.me/+-87iAeFp_M81MzVl"
+    "adminButtonUrl": "https://t.me/Rahim_ofc1"
   },
   "common_style": {
     "topIconAsset": "icon.png",
