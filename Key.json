@@ -1,13 +1,13 @@
 {
-  "showOnDate": "2025-12-21T00:00:00Z",
+  "showOnDate": "2026-1-1T00:00:00Z",
   "keys": {
     "Key-rahim-s1zx": {
       "deviceId": "ANY",
-      "expiryDate": "2025-12-21T23:59:59Z"
+      "expiryDate": "2026-1-1T23:59:59Z"
     }
   },
   "update_dialog": {
-    "topText": "RAHIM MODS - LITE V7 UPDATE DONE ✅",
+    "topText": "RAHIM MODS - LITE V7.0 UPDATE DONE ✅",
     "mainQuestion": "A new version is ready!",
     "buttonText": "Download Now",
     "buttonClickUrl": "https://t.me/Rahim_ofc1"
